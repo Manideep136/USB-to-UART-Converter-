@@ -1,0 +1,11 @@
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-F_Cu.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-B_Cu.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-F_Paste.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-B_Paste.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-F_Silkscreen.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-B_Silkscreen.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-F_Mask.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-B_Mask.gbr'.
+Plotted to 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-Edge_Cuts.gbr'.
+Created Gerber job file 'D:\kicad\USB-UART Converter\Gerber\USB-UART Converter-job.gbrjob'.
+Info: Done.
